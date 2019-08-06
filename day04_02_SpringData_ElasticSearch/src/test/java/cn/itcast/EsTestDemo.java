@@ -39,4 +39,21 @@ public class EsTestDemo {
 	public void testDemoGit () {
 		System.out.println("3213213。fuck");
 	}
+	
+	@Test
+	public void testDemoGit () {
+		System.out.println("都不会写基础打印代码了。fuck");
+	}
+	@Test
+	public void testDemoGit () {
+		System.out.println("都不会写基础打印代码了。fuck");
+		System.out.println("都不会写基础打印代码了。fuck");
+	}
+	@Test
+	public void testDemoGit () {
+		System.out.println("都不会写基础打印代码了。fuck");
+		System.out.println("都不会写基础打印代码了。fuck");
+		System.out.println("都不会写基础打印代码了。fuck");
+	}
+	
 }
