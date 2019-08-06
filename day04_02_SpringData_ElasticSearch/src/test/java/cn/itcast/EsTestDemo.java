@@ -26,16 +26,17 @@ public class EsTestDemo {
 		System.out.println("都不会写基础打印代码了。fuck");
 	}
 
+
 	@Test
 	public void testDemoGit () {
-		System.out.println("都不会写基础打印代码了。fuck");
+		System.out.println("132132 fuck");
 	}
 	@Test
 	public void testDemoGit () {
-		System.out.println("都不会写基础打印代码了。fuck");
+		System.out.println("32132132。fuck");
 	}
 	@Test
 	public void testDemoGit () {
-		System.out.println("都不会写基础打印代码了。fuck");
+		System.out.println("3213213。fuck");
 	}
 }
